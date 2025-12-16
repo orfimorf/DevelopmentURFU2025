@@ -1,0 +1,31 @@
+# Байт-код Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальные окружения
+venv/
+ENV/
+.env
+.venv/
+env/
+
+# Логи и базы данных
+*.log
+*.sqlite3
+*.db
+
+# ОС
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# setuptools
+build/
+dist/
+*.egg-info/
